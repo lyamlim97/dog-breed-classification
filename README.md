@@ -194,7 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - lyamlim97@gmail.com
+Lyam Lim - lyamlim97@gmail.com
 
 <!-- [@twitter_handle](https://twitter.com/twitter_handle) -->
 
